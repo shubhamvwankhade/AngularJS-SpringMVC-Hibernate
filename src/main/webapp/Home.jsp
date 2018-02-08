@@ -10,7 +10,7 @@
 
   app.controller('myappcontroller', function($scope, $http) {
   $scope.users = [] 
-  $scope.userform =
+  $scope.userform = 
   {
   name : "",
   department : ""
