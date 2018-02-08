@@ -9,7 +9,7 @@
   var app = angular.module('myapp', []);
 
   app.controller('myappcontroller', function($scope, $http) {
-  $scope.users = []
+  $scope.users = [] 
   $scope.userform =
   {
   name : "",
